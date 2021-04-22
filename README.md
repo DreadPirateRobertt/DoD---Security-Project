@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/Department-of-Defense-Vulnerability-Assesment-magenta.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/DepartmentOfDefense-magenta.svg?maxAge=259200)]()
 [![Research](https://img.shields.io/badge/Vulnerability-yellow.svg)]()
 [![Year](https://img.shields.io/badge/2018-brightgreen.svg)]()
 [![Platform](https://img.shields.io/badge/Hackerone-green.svg)]()
