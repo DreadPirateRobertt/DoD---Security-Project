@@ -1,7 +1,7 @@
-[![Version](https://img.shields.io/badge/DepartmentOfDefense-magenta.svg?maxAge=259200)]()
-[![Research](https://img.shields.io/badge/Vulnerability-yellow.svg)]()
-[![Year](https://img.shields.io/badge/2018-brightgreen.svg)]()
-[![Platform](https://img.shields.io/badge/Hackerone-green.svg)]()
+[![Build](https://img.shields.io/badge/DepartmentOfDefense-magenta.svg?maxAge=259200)]()
+[![Stage](https://img.shields.io/badge/Vulnerability-yellow.svg)]()
+[![Version](https://img.shields.io/badge/2018-brightgreen.svg)]()
+[![Engine](https://img.shields.io/badge/Hackerone-green.svg)]()
 
 # DoD Security Project
 I was Help Fix &amp; Patch Vulnerabilities in  the US Department of Defense's public vulnerability program.
